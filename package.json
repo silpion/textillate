@@ -1,0 +1,31 @@
+{
+  "name": "textillate",
+  "version": "0.4.1",
+  "description": "A simple plugin for CSS3 text animations",
+  "main": "jquery.textillate.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gordon-git/textillate.git"
+  },
+  "keywords": [
+    "textillate",
+    "css3",
+    "animation",
+    "text",
+    "lettering"
+  ],
+  "author": "Jordan Schroter <jordan.schroter@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/gordon-git/textillate/issues"
+  },
+  "homepage": "https://github.com/gordon-git/textillate#readme",
+  "devDependencies": {
+    "animate.css": "^3.0.0",
+    "jquery": "^1.6.2",
+    "letteringjs": "git://github.com/gordon-git/Lettering.js.git#npm-package"
+  }
+}
